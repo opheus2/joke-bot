@@ -2,6 +2,6 @@
 
 A Codementor Challenge
 
-JokeBot with speech(https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API) api.
+JokeBot with [speech api](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API).
 
-Live [Demo](https://zealous-curran-b145ed.netlify.app/)
+Live [Demo](https://opheus2.github.io/joke-bot/)
